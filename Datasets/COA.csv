@@ -1,0 +1,54 @@
+Account_key,Report,Class,SubClass,SubClass2,Account,SubAccount,Class_sorting,SubClass_Sorting,SubClass2_Sorting
+10,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash at Bank,1,1,1
+20,Balance Sheet,Assets,Assets,Current Assets,Cash & Cash Equivalents,Cash in hand,1,1,1
+30,Balance Sheet,Assets,Assets,Current Assets,Receivables,Trade Receivables,1,1,1
+40,Balance Sheet,Assets,Assets,Current Assets,Receivables,Other Receivables,1,1,1
+41,Balance Sheet,Assets,Assets,Current Assets,Receivables,Interest Receivable,1,1,1
+42,Balance Sheet,Assets,Assets,Current Assets,Receivables,Dividend Receivable,1,1,1
+50,Balance Sheet,Assets,Assets,Current Assets,Receivables,Allowance for Bad Debt,1,1,1
+60,Balance Sheet,Assets,Assets,Current Assets,Inventory,Inventory,1,1,1
+70,Balance Sheet,Assets,Assets,Current Assets,Other Current Assets,Prepaid Expenses,1,1,1
+75,Balance Sheet,Assets,Assets,Current Assets,Investments,Securities,1,1,1
+80,Balance Sheet,Assets,Assets,Non-Current Assets,"Property, Plant, & Equipment",Land & Buildings,1,1,2
+90,Balance Sheet,Assets,Assets,Non-Current Assets,"Property, Plant, & Equipment",Office Furniture & Equipment,1,1,2
+100,Balance Sheet,Assets,Assets,Non-Current Assets,Intangible Assets,Patents and trademarks,1,1,2
+110,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Trade Payables,Trade Payables,2,2,3
+120,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Accrued Expenses,2,2,3
+121,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Interest Payable,2,2,3
+122,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Tax payable,2,2,3
+130,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Salaries payable,2,2,3
+135,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Payables,Dividends payable,2,2,3
+140,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Other Current Liabilities,Other Current Liabilities,2,2,3
+150,Balance Sheet,Liabilities and Owners Equity,Liabilities,Current Liabilities,Current Installments of Long-term Debt,Current Installments of Long-term Debt,2,2,3
+160,Balance Sheet,Liabilities and Owners Equity,Liabilities,Long Term Liabilities,Long Term Obligations,Long Term Obligations,2,2,4
+170,Balance Sheet,Liabilities and Owners Equity,Liabilities,Long Term Liabilities,Other Long Term Liabilities,Other Long Term Liabilities,2,2,4
+180,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Share Capital,Share Capital,Share Capital,2,3,5
+190,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Share Premium,Share Premium,Share Premium,2,3,6
+200,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Retained Earnings,Retained Earnings,2,3,7
+201,Balance Sheet,Liabilities and Owners Equity,Owners Equity,Retained Earnings,Dividends paid,Dividends paid,2,3,7
+210,Profit and Loss,Trading account,Sales,Sales,Sales,Sales,3,4,8
+220,Profit and Loss,Trading account,Sales,Sales,Sales Return,Sales Return,3,4,8
+230,Profit and Loss,Trading account,Cost of Sales,Cost of Sales,Cost of Sales,Cost of Sales,3,5,9
+240,Profit and Loss,Operating account,Operating Expenses,Sales & Distribution,Staff Costs,Salaries,4,6,10
+250,Profit and Loss,Operating account,Operating Expenses,Sales & Distribution,Bad Debt Expense,Bad Debt Expense,4,6,10
+260,Profit and Loss,Operating account,Operating Expenses,Marketing,Commissions,Commissions,4,6,11
+270,Profit and Loss,Operating account,Operating Expenses,Marketing,Conferences,Conferences,4,6,11
+280,Profit and Loss,Operating account,Operating Expenses,Marketing,Advertisements,Advertisements,4,6,11
+290,Profit and Loss,Operating account,Operating Expenses,Administration,Travel,Travel,4,6,12
+300,Profit and Loss,Operating account,Operating Expenses,Administration,Entertainment,Entertainment,4,6,12
+310,Profit and Loss,Operating account,Operating Expenses,Administration,Office Supplies,Office Supplies,4,6,12
+320,Profit and Loss,Operating account,Operating Expenses,Administration,Professional Services,Professional Services,4,6,12
+330,Profit and Loss,Operating account,Operating Expenses,Administration,Telephone,Telephone,4,6,12
+340,Profit and Loss,Operating account,Operating Expenses,Administration,Utilities,Utilities,4,6,12
+350,Profit and Loss,Operating account,Operating Expenses,Administration,Other Expenses,Other Expenses,4,6,12
+360,Profit and Loss,Operating account,Operating Expenses,Administration,Rent,Rent,4,6,12
+370,Profit and Loss,Operating account,Depreciation & Amortization,Depreciation,Vehicles,Vehicles,4,7,13
+380,Profit and Loss,Operating account,Depreciation & Amortization,Depreciation,Equipment,Equipment,4,7,13
+390,Profit and Loss,Operating account,Depreciation & Amortization,Depreciation,Furniture and Fixtures,Furniture and Fixtures,4,7,13
+400,Profit and Loss,Operating account,Depreciation & Amortization,Amortization,Amortization of Intangible Assets,Amortization of Intangible Assets,4,7,14
+410,Profit and Loss,Non-operating,Interest Income,Interest Income,Interest Income,Interest Income,5,8,15
+420,Profit and Loss,Non-operating,Gain/Loss on Sales of Asset,Gain/Loss on Sales of Asset,Gain/Loss on Sales of Asset,Gain/Loss on Sales of Asset,5,9,16
+430,Profit and Loss,Non-operating,Exchange Loss/Gain,Exchange Loss/Gain,Exchange Loss/Gain,Exchange Loss/Gain,5,10,17
+431,Profit and Loss,Non-operating,Dividend Income,Dividend Income,Dividend Income,Dividend Income,5,11,18
+440,Profit and Loss,Interest & Tax,Interest Expense,Interest Expense,Interest Expense,Interest Expense,6,12,19
+450,Profit and Loss,Interest & Tax,Taxation,Taxation,Taxation,Taxation,6,13,20
